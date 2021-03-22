@@ -1,0 +1,23 @@
+export CFLAGS="-O3 --param=lto-max-streaming-parallelism=16 -march=native -mtune=native -fgraphite-identity -Wall -Wl,--build-id=sha1 -Wl,--hash-style=gnu -Wl,-O2 -Wl,-z,now -Wl,-z,relro -falign-functions=32 -flimit-function-alignment -fasynchronous-unwind-tables -fdevirtualize-at-ltrans -floop-nest-optimize -fno-semantic-interposition -fno-stack-protector -ftree-loop-distribute-patterns -ftree-loop-vectorize -ftree-vectorize -funroll-loops -fuse-ld=bfd -fuse-linker-plugin -malign-data=cacheline -flto=16 -mtls-dialect=gnu2 -Wl,-sort-common -Wp,-D_REENTRANT -pipe -ffat-lto-objects"
+#
+export CXXFLAGS="-O3 --param=lto-max-streaming-parallelism=16 -march=native -mtune=native -fgraphite-identity -Wall -Wl,--build-id=sha1 -Wl,--enable-new-dtags -Wl,--hash-style=gnu -Wl,-O2 -Wl,-z,now -Wl,-z,relro -falign-functions=32 -flimit-function-alignment -fasynchronous-unwind-tables -fdevirtualize-at-ltrans -floop-nest-optimize -fno-semantic-interposition -fno-stack-protector -ftree-loop-distribute-patterns -ftree-loop-vectorize -ftree-vectorize -funroll-loops -fuse-ld=bfd -fuse-linker-plugin -malign-data=cacheline -flto=16 -mtls-dialect=gnu2 -Wl,-sort-common -Wp,-D_REENTRANT -fvisibility-inlines-hidden -pipe -ffat-lto-objects"
+#
+export LDFLAGS="-O3 --param=lto-max-streaming-parallelism=16 -march=native -mtune=native -fgraphite-identity -Wall -Wl,--build-id=sha1 -Wl,--hash-style=gnu -Wl,-O2 -Wl,-z,now -Wl,-z,relro -falign-functions=32 -flimit-function-alignment -fasynchronous-unwind-tables -fdevirtualize-at-ltrans -floop-nest-optimize -fno-semantic-interposition -fno-stack-protector -ftree-loop-distribute-patterns -ftree-loop-vectorize -ftree-vectorize -funroll-loops -fuse-ld=bfd -fuse-linker-plugin -malign-data=cacheline -flto=16 -mtls-dialect=gnu2 -Wl,-sort-common -Wp,-D_REENTRANT -pipe -ffat-lto-objects"
+#
+export AR=/usr/bin/gcc-ar
+export RANLIB=/usr/bin/gcc-ranlib
+export NM=/usr/bin/gcc-nm
+#
+export MAKEFLAGS=%{?_smp_mflags}
+#
+unset CCACHE_DISABLE
+export CCACHE_NODISABLE=true
+export PATH="/usr/lib64/ccache/bin:$PATH"
+unset CCACHE_NOHASHDIR
+export CCACHE_HASHDIR=true
+export CCACHE_CPP2=true
+#
+export CCACHE_SLOPPINESS=modules,include_file_mtime,include_file_ctime,time_macros,pch_defines,file_stat_matches,clang_index_store,system_headers,locale
+#export CCACHE_SLOPPINESS=pch_defines,time_macros,locale,clang_index_store,file_macro
+export CCACHE_DIR=/var/tmp/ccache
+export CCACHE_BASEDIR=/builddir/build/BUILD
