@@ -19,7 +19,7 @@
 module-set kf5-base-applications
     repository kde-projects
     use-modules konsole kate dolphin kfind kdialog kio-extras
-    ignore-modules keditbookmarks konqueror
+    ignore-modules konqueror
 end module-set
 
 module-set kdegraphics
@@ -120,7 +120,7 @@ end module-set
 module-set kdeutils
     repository kde-projects
     use-modules kdeutils/*
-    ignore-modules kdeutils/abakus kdeutils/atcore-cli kdeutils/atelier kdeutils/basket kdeutils/kbackup kdeutils/keditbookmarks kdeutils/keurocalc kdeutils/kfloppy kdeutils/kirogi kdeutils/klimbgrades kdeutils/kongress kdeutils/kookbook kdeutils/kronometer kdeutils/krusader kdeutils/kteatime kdeutils/ktrip kdeutils/mangonel kdeutils/mycroft-plasmoid kdeutils/print-manager kdeutils/rsibreak kdeutils/skanpage kdeutils/totalreqall kdeutils/yakuake
+    ignore-modules kdeutils/abakus kdeutils/atcore-cli kdeutils/atelier kdeutils/basket kdeutils/kbackup kdeutils/keurocalc kdeutils/kfloppy kdeutils/kirogi kdeutils/klimbgrades kdeutils/kongress kdeutils/kookbook kdeutils/kronometer kdeutils/krusader kdeutils/kteatime kdeutils/ktrip kdeutils/mangonel kdeutils/mycroft-plasmoid kdeutils/print-manager kdeutils/rsibreak kdeutils/skanpage kdeutils/totalreqall kdeutils/yakuake
 end module-set
 
 module-set kdemultimedia

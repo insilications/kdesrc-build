@@ -47,7 +47,6 @@ end module-set
 module-set frameworks
     repository kde-projects
     use-modules frameworks
-    ignore-modules kbookmarks
     cmake-options -DBUILD_TESTING=FALSE
 
     #tag v5.75.0-rc1
