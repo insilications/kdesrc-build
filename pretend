@@ -1,0 +1,1471 @@
+boni@clr/insilications/apps/kdesrc-build $ ./kdesrc-build --pretend --ignore-modules kbookmarks kpimtextedit kcontacts akonadi akonadi-contacts libkleo kplotting kpeople prison krunner baloo baloo-widgets
+
+Building extra-cmake-modules from frameworks (1/183)
+        Cloning extra-cmake-modules
+        Source update complete for extra-cmake-modules: 1 file affected.
+        Preparing build system for extra-cmake-modules.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for extra-cmake-modules
+
+Building kcoreaddons from frameworks (2/183)
+        Cloning kcoreaddons
+        Source update complete for kcoreaddons: 1 file affected.
+        Preparing build system for kcoreaddons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcoreaddons
+
+Building ki18n from frameworks (3/183)
+        Cloning ki18n
+        Source update complete for ki18n: 1 file affected.
+        Preparing build system for ki18n.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ki18n
+
+Building karchive from frameworks (4/183)
+        Cloning karchive
+        Source update complete for karchive: 1 file affected.
+        Preparing build system for karchive.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for karchive
+
+Building kconfig from frameworks (5/183)
+        Cloning kconfig
+        Source update complete for kconfig: 1 file affected.
+        Preparing build system for kconfig.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kconfig
+
+Building kdoctools from frameworks (6/183)
+        Cloning kdoctools
+        Source update complete for kdoctools: 1 file affected.
+        Preparing build system for kdoctools.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdoctools
+
+Building kcodecs from frameworks (7/183)
+        Cloning kcodecs
+        Source update complete for kcodecs: 1 file affected.
+        Preparing build system for kcodecs.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcodecs
+
+Building kwidgetsaddons from frameworks (8/183)
+        Cloning kwidgetsaddons
+        Source update complete for kwidgetsaddons: 1 file affected.
+        Preparing build system for kwidgetsaddons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwidgetsaddons
+
+Building kwindowsystem from frameworks (9/183)
+        Cloning kwindowsystem
+        Source update complete for kwindowsystem: 1 file affected.
+        Preparing build system for kwindowsystem.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwindowsystem
+
+Building polkit-qt-1 from kf5-build-support (10/183)
+        Cloning polkit-qt-1
+        Source update complete for polkit-qt-1: 1 file affected.
+        Preparing build system for polkit-qt-1.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for polkit-qt-1
+
+Building kauth from frameworks (11/183)
+        Cloning kauth
+        Source update complete for kauth: 1 file affected.
+        Preparing build system for kauth.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kauth
+
+Building kcrash from frameworks (12/183)
+        Cloning kcrash
+        Source update complete for kcrash: 1 file affected.
+        Preparing build system for kcrash.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcrash
+
+Building kdbusaddons from frameworks (13/183)
+        Cloning kdbusaddons
+        Source update complete for kdbusaddons: 1 file affected.
+        Preparing build system for kdbusaddons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdbusaddons
+
+Building kguiaddons from frameworks (14/183)
+        Cloning kguiaddons
+        Source update complete for kguiaddons: 1 file affected.
+        Preparing build system for kguiaddons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kguiaddons
+
+Building kconfigwidgets from frameworks (15/183)
+        Cloning kconfigwidgets
+        Source update complete for kconfigwidgets: 1 file affected.
+        Preparing build system for kconfigwidgets.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kconfigwidgets
+
+Building kitemviews from frameworks (16/183)
+        Cloning kitemviews
+        Source update complete for kitemviews: 1 file affected.
+        Preparing build system for kitemviews.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kitemviews
+
+Building phonon from phonon (17/183)
+        Cloning phonon
+        Source update complete for phonon: 1 file affected.
+        Preparing build system for phonon.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for phonon
+
+Building kiconthemes from frameworks (18/183)
+        Cloning kiconthemes
+        Source update complete for kiconthemes: 1 file affected.
+        Preparing build system for kiconthemes.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kiconthemes
+
+Building kcompletion from frameworks (19/183)
+        Cloning kcompletion
+        Source update complete for kcompletion: 1 file affected.
+        Preparing build system for kcompletion.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcompletion
+
+Building kservice from frameworks (20/183)
+        Cloning kservice
+        Source update complete for kservice: 1 file affected.
+        Preparing build system for kservice.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kservice
+
+Building sonnet from frameworks (21/183)
+        Cloning sonnet
+        Source update complete for sonnet: 1 file affected.
+        Preparing build system for sonnet.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for sonnet
+
+Building attica from frameworks (22/183)
+        Cloning attica
+        Source update complete for attica: 1 file affected.
+        Preparing build system for attica.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for attica
+
+Building breeze-icons from frameworks (23/183)
+        Cloning breeze-icons
+        Source update complete for breeze-icons: 1 file affected.
+        Preparing build system for breeze-icons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for breeze-icons
+
+Building kglobalaccel from frameworks (24/183)
+        Cloning kglobalaccel
+        Source update complete for kglobalaccel: 1 file affected.
+        Preparing build system for kglobalaccel.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kglobalaccel
+
+Building ktextwidgets from frameworks (25/183)
+        Cloning ktextwidgets
+        Source update complete for ktextwidgets: 1 file affected.
+        Preparing build system for ktextwidgets.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ktextwidgets
+
+Building knotifications from frameworks (26/183)
+        Cloning knotifications
+        Source update complete for knotifications: 1 file affected.
+        Preparing build system for knotifications.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for knotifications
+
+Building kxmlgui from frameworks (27/183)
+        Cloning kxmlgui
+        Source update complete for kxmlgui: 1 file affected.
+        Preparing build system for kxmlgui.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kxmlgui
+
+Building kjobwidgets from frameworks (28/183)
+        Cloning kjobwidgets
+        Source update complete for kjobwidgets: 1 file affected.
+        Preparing build system for kjobwidgets.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kjobwidgets
+
+Building kwallet from frameworks (29/183)
+        Cloning kwallet
+        Source update complete for kwallet: 1 file affected.
+        Preparing build system for kwallet.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwallet
+
+Building solid from frameworks (30/183)
+        Cloning solid
+        Source update complete for solid: 1 file affected.
+        Preparing build system for solid.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for solid
+
+Building kio from frameworks (31/183)
+        Cloning kio
+        Source update complete for kio: 1 file affected.
+        Preparing build system for kio.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kio
+
+Building kparts from frameworks (32/183)
+        Cloning kparts
+        Source update complete for kparts: 1 file affected.
+        Preparing build system for kparts.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kparts
+
+Building taglib (33/183)
+        Cloning taglib
+        Source update complete for taglib: 1 file affected.
+        Preparing build system for taglib.
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for taglib
+
+Building kirigami from frameworks (34/183)
+        Cloning kirigami
+        Source update complete for kirigami: 1 file affected.
+        Preparing build system for kirigami.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kirigami
+
+Building kpackage from frameworks (35/183)
+        Cloning kpackage
+        Source update complete for kpackage: 1 file affected.
+        Preparing build system for kpackage.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kpackage
+
+Building kinit from frameworks (36/183)
+        Cloning kinit
+        Source update complete for kinit: 1 file affected.
+        Preparing build system for kinit.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kinit
+
+Building kactivities from frameworks (37/183)
+        Cloning kactivities
+        Source update complete for kactivities: 1 file affected.
+        Preparing build system for kactivities.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kactivities
+
+Building kdeclarative from frameworks (38/183)
+        Cloning kdeclarative
+        Source update complete for kdeclarative: 1 file affected.
+        Preparing build system for kdeclarative.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdeclarative
+
+Building kidletime from frameworks (39/183)
+        Cloning kidletime
+        Source update complete for kidletime: 1 file affected.
+        Preparing build system for kidletime.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kidletime
+
+Building kunitconversion from frameworks (40/183)
+        Cloning kunitconversion
+        Source update complete for kunitconversion: 1 file affected.
+        Preparing build system for kunitconversion.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kunitconversion
+
+Building oxygen-icons5 from frameworks (41/183)
+        Cloning oxygen-icons5
+        Source update complete for oxygen-icons5: 1 file affected.
+        Preparing build system for oxygen-icons5.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for oxygen-icons5
+
+Building syntax-highlighting from frameworks (42/183)
+        Cloning syntax-highlighting
+        Source update complete for syntax-highlighting: 1 file affected.
+        Preparing build system for syntax-highlighting.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for syntax-highlighting
+
+Building plasma-wayland-protocols from kdesupport (43/183)
+        Cloning plasma-wayland-protocols
+        Source update complete for plasma-wayland-protocols: 1 file affected.
+        Preparing build system for plasma-wayland-protocols.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-wayland-protocols
+
+Building kdnssd from frameworks (44/183)
+        Cloning kdnssd
+        Source update complete for kdnssd: 1 file affected.
+        Preparing build system for kdnssd.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdnssd
+
+Building kitemmodels from frameworks (45/183)
+        Cloning kitemmodels
+        Source update complete for kitemmodels: 1 file affected.
+        Preparing build system for kitemmodels.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kitemmodels
+
+Building kross from frameworks (46/183)
+        Cloning kross
+        Source update complete for kross: 1 file affected.
+        Preparing build system for kross.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kross
+
+Building ktexteditor from frameworks (47/183)
+        Cloning ktexteditor
+        Source update complete for ktexteditor: 1 file affected.
+        Preparing build system for ktexteditor.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ktexteditor
+
+Building kwayland from frameworks (48/183)
+        Cloning kwayland
+        Source update complete for kwayland: 1 file affected.
+        Preparing build system for kwayland.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwayland
+
+Building threadweaver from frameworks (49/183)
+        Cloning threadweaver
+        Source update complete for threadweaver: 1 file affected.
+        Preparing build system for threadweaver.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for threadweaver
+
+Building kded from frameworks (50/183)
+        Cloning kded
+        Source update complete for kded: 1 file affected.
+        Preparing build system for kded.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kded
+
+Building kdesignerplugin from frameworks (51/183)
+        Cloning kdesignerplugin
+        Source update complete for kdesignerplugin: 1 file affected.
+        Preparing build system for kdesignerplugin.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdesignerplugin
+
+Building kemoticons from frameworks (52/183)
+        Cloning kemoticons
+        Source update complete for kemoticons: 1 file affected.
+        Preparing build system for kemoticons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kemoticons
+
+Building kfilemetadata from frameworks (53/183)
+        Cloning kfilemetadata
+        Source update complete for kfilemetadata: 1 file affected.
+        Preparing build system for kfilemetadata.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kfilemetadata
+
+Building knewstuff from frameworks (54/183)
+        Cloning knewstuff
+        Source update complete for knewstuff: 1 file affected.
+        Preparing build system for knewstuff.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for knewstuff
+
+Building kpty from frameworks (55/183)
+        Cloning kpty
+        Source update complete for kpty: 1 file affected.
+        Preparing build system for kpty.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kpty
+
+Building plasma-framework from frameworks (56/183)
+        Cloning plasma-framework
+        Source update complete for plasma-framework: 1 file affected.
+        Preparing build system for plasma-framework.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-framework
+
+Building bluez-qt from frameworks (57/183)
+        Cloning bluez-qt
+        Source update complete for bluez-qt: 1 file affected.
+        Preparing build system for bluez-qt.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for bluez-qt
+
+Building frameworkintegration from frameworks (58/183)
+        Cloning frameworkintegration
+        Source update complete for frameworkintegration: 1 file affected.
+        Preparing build system for frameworkintegration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for frameworkintegration
+
+Building kactivities-stats from frameworks (59/183)
+        Cloning kactivities-stats
+        Source update complete for kactivities-stats: 1 file affected.
+        Preparing build system for kactivities-stats.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kactivities-stats
+
+Building kcmutils from frameworks (60/183)
+        Cloning kcmutils
+        Source update complete for kcmutils: 1 file affected.
+        Preparing build system for kcmutils.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcmutils
+
+Building kdelibs4support from frameworks (61/183)
+        Cloning kdelibs4support
+        Source update complete for kdelibs4support: 1 file affected.
+        Preparing build system for kdelibs4support.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdelibs4support
+
+Building kdesu from frameworks (62/183)
+        Cloning kdesu
+        Source update complete for kdesu: 1 file affected.
+        Preparing build system for kdesu.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdesu
+
+Building kholidays from frameworks (63/183)
+        Cloning kholidays
+        Source update complete for kholidays: 1 file affected.
+        Preparing build system for kholidays.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kholidays
+
+Building kimageformats from frameworks (64/183)
+        Cloning kimageformats
+        Source update complete for kimageformats: 1 file affected.
+        Preparing build system for kimageformats.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kimageformats
+
+Building knotifyconfig from frameworks (65/183)
+        Cloning knotifyconfig
+        Source update complete for knotifyconfig: 1 file affected.
+        Preparing build system for knotifyconfig.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for knotifyconfig
+
+Building networkmanager-qt from frameworks (66/183)
+        Cloning networkmanager-qt
+        Source update complete for networkmanager-qt: 1 file affected.
+        Preparing build system for networkmanager-qt.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for networkmanager-qt
+
+Building purpose from frameworks (67/183)
+        Cloning purpose
+        Source update complete for purpose: 1 file affected.
+        Preparing build system for purpose.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for purpose
+
+Building qqc2-desktop-style from frameworks (68/183)
+        Cloning qqc2-desktop-style
+        Source update complete for qqc2-desktop-style: 1 file affected.
+        Preparing build system for qqc2-desktop-style.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for qqc2-desktop-style
+
+Building syndication from frameworks (69/183)
+        Cloning syndication
+        Source update complete for syndication: 1 file affected.
+        Preparing build system for syndication.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for syndication
+
+Building kjs from frameworks (70/183)
+        Cloning kjs
+        Source update complete for kjs: 1 file affected.
+        Preparing build system for kjs.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kjs
+
+Building kdecoration from kf5-workspace-modules (71/183)
+        Cloning kdecoration
+        Source update complete for kdecoration: 1 file affected.
+        Preparing build system for kdecoration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdecoration
+
+Building khtml from frameworks (72/183)
+        Cloning khtml
+        Source update complete for khtml: 1 file affected.
+        Preparing build system for khtml.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for khtml
+
+Building breeze from kf5-workspace-modules (73/183)
+        Cloning breeze
+        Source update complete for breeze: 1 file affected.
+        Preparing build system for breeze.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for breeze
+
+Building libksysguard from kf5-workspace-modules (74/183)
+        Cloning libksysguard
+        Source update complete for libksysguard: 1 file affected.
+        Preparing build system for libksysguard.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libksysguard
+
+Building kio-extras from kf5-base-applications (75/183)
+        Cloning kio-extras
+        Source update complete for kio-extras: 1 file affected.
+        Preparing build system for kio-extras.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kio-extras
+
+Building kscreenlocker from kf5-workspace-modules (76/183)
+        Cloning kscreenlocker
+        Source update complete for kscreenlocker: 1 file affected.
+        Preparing build system for kscreenlocker.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kscreenlocker
+
+Building kwayland-integration from kf5-workspace-modules (77/183)
+        Cloning kwayland-integration
+        Source update complete for kwayland-integration: 1 file affected.
+        Preparing build system for kwayland-integration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwayland-integration
+
+Building kwayland-server from kf5-workspace-modules (78/183)
+        Cloning kwayland-server
+        Source update complete for kwayland-server: 1 file affected.
+        Preparing build system for kwayland-server.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwayland-server
+
+Building kuserfeedback from _cmdline (79/183)
+        Cloning kuserfeedback
+        Source update complete for kuserfeedback: 1 file affected.
+        Preparing build system for kuserfeedback.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kuserfeedback
+
+Building kwin from kf5-workspace-modules (80/183)
+        Cloning kwin
+        Source update complete for kwin: 1 file affected.
+        Preparing build system for kwin.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwin
+
+Building libkscreen from kf5-workspace-modules (81/183)
+        Cloning libkscreen
+        Source update complete for libkscreen: 1 file affected.
+        Preparing build system for libkscreen.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libkscreen
+
+Building kjsembed from frameworks (82/183)
+        Cloning kjsembed
+        Source update complete for kjsembed: 1 file affected.
+        Preparing build system for kjsembed.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kjsembed
+
+Building kquickcharts from frameworks (83/183)
+        Cloning kquickcharts
+        Source update complete for kquickcharts: 1 file affected.
+        Preparing build system for kquickcharts.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kquickcharts
+
+Building kactivitymanagerd from kf5-workspace-modules (84/183)
+        Cloning kactivitymanagerd
+        Source update complete for kactivitymanagerd: 1 file affected.
+        Preparing build system for kactivitymanagerd.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kactivitymanagerd
+
+Building milou from kf5-workspace-modules (85/183)
+        Cloning milou
+        Source update complete for milou: 1 file affected.
+        Preparing build system for milou.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for milou
+
+Building plasma-workspace from kf5-workspace-modules (86/183)
+        Cloning plasma-workspace
+        Source update complete for plasma-workspace: 1 file affected.
+        Preparing build system for plasma-workspace.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-workspace
+
+Building grantlee (87/183)
+        Cloning grantlee
+        Source update complete for grantlee: 1 file affected.
+        Preparing build system for grantlee.
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for grantlee
+
+Building libkexiv2 from kdegraphics (88/183)
+        Cloning libkexiv2
+        Source update complete for libkexiv2: 1 file affected.
+        Preparing build system for libkexiv2.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libkexiv2
+
+Building libkdcraw from kdegraphics (89/183)
+        Cloning libkdcraw
+        Source update complete for libkdcraw: 1 file affected.
+        Preparing build system for libkdcraw.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libkdcraw
+
+Building kaccounts-integration from _cmdline (90/183)
+        Cloning kaccounts-integration
+        Source update complete for kaccounts-integration: 1 file affected.
+        Preparing build system for kaccounts-integration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kaccounts-integration
+
+Building qca from kf5-build-support (91/183)
+        Cloning qca
+        Source update complete for qca: 1 file affected.
+        Preparing build system for qca.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for qca
+
+Building grantleetheme from _cmdline (92/183)
+        Cloning grantleetheme
+        Source update complete for grantleetheme: 1 file affected.
+        Preparing build system for grantleetheme.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for grantleetheme
+
+Building kmime from _cmdline (93/183)
+        Cloning kmime
+        Source update complete for kmime: 1 file affected.
+        Preparing build system for kmime.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kmime
+
+Building ksysguard from kf5-workspace-modules (94/183)
+        Cloning ksysguard
+        Source update complete for ksysguard: 1 file affected.
+        Preparing build system for ksysguard.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ksysguard
+
+Building oxygen from kf5-workspace-modules (95/183)
+        Cloning oxygen
+        Source update complete for oxygen: 1 file affected.
+        Preparing build system for oxygen.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for oxygen
+
+Building powerdevil from kf5-workspace-modules (96/183)
+        Cloning powerdevil
+        Source update complete for powerdevil: 1 file affected.
+        Preparing build system for powerdevil.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for powerdevil
+
+Building systemsettings from kf5-workspace-modules (97/183)
+        Cloning systemsettings
+        Source update complete for systemsettings: 1 file affected.
+        Preparing build system for systemsettings.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for systemsettings
+
+Building libkipi from kdegraphics (98/183)
+        Cloning libkipi
+        Source update complete for libkipi: 1 file affected.
+        Preparing build system for libkipi.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libkipi
+
+Building kdegraphics-mobipocket from _cmdline (99/183)
+        Cloning kdegraphics-mobipocket
+        Source update complete for kdegraphics-mobipocket: 1 file affected.
+        Preparing build system for kdegraphics-mobipocket.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdegraphics-mobipocket
+
+Building kdevelop-pg-qt from _cmdline (100/183)
+        Cloning kdevelop-pg-qt
+        Source update complete for kdevelop-pg-qt: 1 file affected.
+        Preparing build system for kdevelop-pg-qt.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdevelop-pg-qt
+
+Building libkomparediff2 from _cmdline (101/183)
+        Cloning libkomparediff2
+        Source update complete for libkomparediff2: 1 file affected.
+        Preparing build system for libkomparediff2.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libkomparediff2
+
+Building modemmanager-qt from frameworks (102/183)
+        Cloning modemmanager-qt
+        Source update complete for modemmanager-qt: 1 file affected.
+        Preparing build system for modemmanager-qt.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for modemmanager-qt
+
+Building plasma-desktop from kf5-workspace-modules (103/183)
+        Cloning plasma-desktop
+        Source update complete for plasma-desktop: 1 file affected.
+        Preparing build system for plasma-desktop.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-desktop
+
+Building dolphin from kf5-base-applications (104/183)
+        Cloning dolphin
+        Source update complete for dolphin: 1 file affected.
+        Preparing build system for dolphin.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for dolphin
+
+Building okteta from kf5-utils (105/183)
+        Cloning okteta
+        Source update complete for okteta: 1 file affected.
+        Preparing build system for okteta.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for okteta
+
+Building kpmcore from kdeadmin (106/183)
+        Cloning kpmcore
+        Source update complete for kpmcore: 1 file affected.
+        Preparing build system for kpmcore.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kpmcore
+
+Building dolphin-plugins from dolphin-plugins (107/183)
+        Cloning dolphin-plugins
+        Source update complete for dolphin-plugins: 1 file affected.
+        Preparing build system for dolphin-plugins.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for dolphin-plugins
+
+Building kdiff3 from kdiff3 (108/183)
+        Cloning kdiff3
+        Source update complete for kdiff3: 1 file affected.
+        Preparing build system for kdiff3.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdiff3
+
+Building kde-dev-scripts from kf5-build-support (109/183)
+        Cloning kde-dev-scripts
+        Source update complete for kde-dev-scripts: 1 file affected.
+        Preparing build system for kde-dev-scripts.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kde-dev-scripts
+
+Building kdesrc-build from kf5-build-support (110/183)
+        Cloning kdesrc-build
+        Source update complete for kdesrc-build: 1 file affected.
+        Preparing build system for kdesrc-build.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdesrc-build
+
+Building phonon-gstreamer from phonon (111/183)
+        Cloning phonon-gstreamer
+        Source update complete for phonon-gstreamer: 1 file affected.
+        Preparing build system for phonon-gstreamer.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for phonon-gstreamer
+
+Building phonon-vlc from phonon (112/183)
+        Cloning phonon-vlc
+        Source update complete for phonon-vlc: 1 file affected.
+        Preparing build system for phonon-vlc.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for phonon-vlc
+
+Building kapidox from frameworks (113/183)
+        Cloning kapidox
+        Source update complete for kapidox: 1 file affected.
+        Preparing build system for kapidox.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kapidox
+
+Building kcalendarcore from frameworks (114/183)
+        Cloning kcalendarcore
+        Source update complete for kcalendarcore: 1 file affected.
+        Preparing build system for kcalendarcore.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcalendarcore
+
+Building kdav from frameworks (115/183)
+        Cloning kdav
+        Source update complete for kdav: 1 file affected.
+        Preparing build system for kdav.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdav
+
+Building kdewebkit from frameworks (116/183)
+        Cloning kdewebkit
+        Source update complete for kdewebkit: 1 file affected.
+        Preparing build system for kdewebkit.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdewebkit
+
+Building kmediaplayer from frameworks (117/183)
+        Cloning kmediaplayer
+        Source update complete for kmediaplayer: 1 file affected.
+        Preparing build system for kmediaplayer.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kmediaplayer
+
+Building kxmlrpcclient from frameworks (118/183)
+        Cloning kxmlrpcclient
+        Source update complete for kxmlrpcclient: 1 file affected.
+        Preparing build system for kxmlrpcclient.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kxmlrpcclient
+
+Building bluedevil from kf5-workspace-modules (119/183)
+        Cloning bluedevil
+        Source update complete for bluedevil: 1 file affected.
+        Preparing build system for bluedevil.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for bluedevil
+
+Building breeze-gtk from kf5-workspace-modules (120/183)
+        Cloning breeze-gtk
+        Source update complete for breeze-gtk: 1 file affected.
+        Preparing build system for breeze-gtk.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for breeze-gtk
+
+Building discover from kf5-workspace-modules (121/183)
+        Cloning discover
+        Source update complete for discover: 1 file affected.
+        Preparing build system for discover.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for discover
+
+Building drkonqi from kf5-workspace-modules (122/183)
+        Cloning drkonqi
+        Source update complete for drkonqi: 1 file affected.
+        Preparing build system for drkonqi.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for drkonqi
+
+Building kde-cli-tools from kf5-workspace-modules (123/183)
+        Cloning kde-cli-tools
+        Source update complete for kde-cli-tools: 1 file affected.
+        Preparing build system for kde-cli-tools.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kde-cli-tools
+
+Building kde-gtk-config from kf5-workspace-modules (124/183)
+        Cloning kde-gtk-config
+        Source update complete for kde-gtk-config: 1 file affected.
+        Preparing build system for kde-gtk-config.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kde-gtk-config
+
+Building kdeplasma-addons from kf5-workspace-modules (125/183)
+        Cloning kdeplasma-addons
+        Source update complete for kdeplasma-addons: 1 file affected.
+        Preparing build system for kdeplasma-addons.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdeplasma-addons
+
+Building kgamma5 from kf5-workspace-modules (126/183)
+        Cloning kgamma5
+        Source update complete for kgamma5: 1 file affected.
+        Preparing build system for kgamma5.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kgamma5
+
+Building khotkeys from kf5-workspace-modules (127/183)
+        Cloning khotkeys
+        Source update complete for khotkeys: 1 file affected.
+        Preparing build system for khotkeys.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for khotkeys
+
+Building kinfocenter from kf5-workspace-modules (128/183)
+        Cloning kinfocenter
+        Source update complete for kinfocenter: 1 file affected.
+        Preparing build system for kinfocenter.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kinfocenter
+
+Building kmenuedit from kf5-workspace-modules (129/183)
+        Cloning kmenuedit
+        Source update complete for kmenuedit: 1 file affected.
+        Preparing build system for kmenuedit.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kmenuedit
+
+Building kscreen from kf5-workspace-modules (130/183)
+        Cloning kscreen
+        Source update complete for kscreen: 1 file affected.
+        Preparing build system for kscreen.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kscreen
+
+Building ksshaskpass from kf5-workspace-modules (131/183)
+        Cloning ksshaskpass
+        Source update complete for ksshaskpass: 1 file affected.
+        Preparing build system for ksshaskpass.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ksshaskpass
+
+Building kwallet-pam from kf5-workspace-modules (132/183)
+        Cloning kwallet-pam
+        Source update complete for kwallet-pam: 1 file affected.
+        Preparing build system for kwallet-pam.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwallet-pam
+
+Building kwrited from kf5-workspace-modules (133/183)
+        Cloning kwrited
+        Source update complete for kwrited: 1 file affected.
+        Preparing build system for kwrited.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwrited
+
+Building plasma-browser-integration from kf5-workspace-modules (134/183)
+        Cloning plasma-browser-integration
+        Source update complete for plasma-browser-integration: 1 file affected.
+        Preparing build system for plasma-browser-integration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-browser-integration
+
+Building plasma-disks from kf5-workspace-modules (135/183)
+        Cloning plasma-disks
+        Source update complete for plasma-disks: 1 file affected.
+        Preparing build system for plasma-disks.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-disks
+
+Building plasma-firewall from kf5-workspace-modules (136/183)
+        Cloning plasma-firewall
+        Source update complete for plasma-firewall: 1 file affected.
+        Preparing build system for plasma-firewall.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-firewall
+
+Building plasma-integration from kf5-workspace-modules (137/183)
+        Cloning plasma-integration
+        Source update complete for plasma-integration: 1 file affected.
+        Preparing build system for plasma-integration.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-integration
+
+Building plasma-nano from kf5-workspace-modules (138/183)
+        Cloning plasma-nano
+        Source update complete for plasma-nano: 1 file affected.
+        Preparing build system for plasma-nano.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-nano
+
+Building plasma-nm from kf5-workspace-modules (139/183)
+        Cloning plasma-nm
+        Source update complete for plasma-nm: 1 file affected.
+        Preparing build system for plasma-nm.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-nm
+
+Building plasma-pa from kf5-workspace-modules (140/183)
+        Cloning plasma-pa
+        Source update complete for plasma-pa: 1 file affected.
+        Preparing build system for plasma-pa.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-pa
+
+Building plasma-phone-components from kf5-workspace-modules (141/183)
+        Cloning plasma-phone-components
+        Source update complete for plasma-phone-components: 1 file affected.
+        Preparing build system for plasma-phone-components.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-phone-components
+
+Building plasma-sdk from kf5-workspace-modules (142/183)
+        Cloning plasma-sdk
+        Source update complete for plasma-sdk: 1 file affected.
+        Preparing build system for plasma-sdk.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-sdk
+
+Building plasma-systemmonitor from kf5-workspace-modules (143/183)
+        Cloning plasma-systemmonitor
+        Source update complete for plasma-systemmonitor: 1 file affected.
+        Preparing build system for plasma-systemmonitor.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-systemmonitor
+
+Building plasma-tests from kf5-workspace-modules (144/183)
+        Cloning plasma-tests
+        Source update complete for plasma-tests: 1 file affected.
+        Preparing build system for plasma-tests.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-tests
+
+Building plasma-thunderbolt from kf5-workspace-modules (145/183)
+        Cloning plasma-thunderbolt
+        Source update complete for plasma-thunderbolt: 1 file affected.
+        Preparing build system for plasma-thunderbolt.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-thunderbolt
+
+Building plasma-vault from kf5-workspace-modules (146/183)
+        Cloning plasma-vault
+        Source update complete for plasma-vault: 1 file affected.
+        Preparing build system for plasma-vault.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-vault
+
+Building plasma-workspace-wallpapers from kf5-workspace-modules (147/183)
+        Cloning plasma-workspace-wallpapers
+        Source update complete for plasma-workspace-wallpapers: 1 file affected.
+        Preparing build system for plasma-workspace-wallpapers.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plasma-workspace-wallpapers
+
+Building plymouth-kcm from kf5-workspace-modules (148/183)
+        Cloning plymouth-kcm
+        Source update complete for plymouth-kcm: 1 file affected.
+        Preparing build system for plymouth-kcm.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for plymouth-kcm
+
+Building polkit-kde-agent-1 from kf5-workspace-modules (149/183)
+        Cloning polkit-kde-agent-1
+        Source update complete for polkit-kde-agent-1: 1 file affected.
+        Preparing build system for polkit-kde-agent-1.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for polkit-kde-agent-1
+
+Building qqc2-breeze-style from kf5-workspace-modules (150/183)
+        Cloning qqc2-breeze-style
+        Source update complete for qqc2-breeze-style: 1 file affected.
+        Preparing build system for qqc2-breeze-style.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for qqc2-breeze-style
+
+Building sddm-kcm from kf5-workspace-modules (151/183)
+        Cloning sddm-kcm
+        Source update complete for sddm-kcm: 1 file affected.
+        Preparing build system for sddm-kcm.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for sddm-kcm
+
+Building xdg-desktop-portal-kde from kf5-workspace-modules (152/183)
+        Cloning xdg-desktop-portal-kde
+        Source update complete for xdg-desktop-portal-kde: 1 file affected.
+        Preparing build system for xdg-desktop-portal-kde.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for xdg-desktop-portal-kde
+
+Building kwalletmanager from kf5-workspace-utils (153/183)
+        Cloning kwalletmanager
+        Source update complete for kwalletmanager: 1 file affected.
+        Preparing build system for kwalletmanager.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kwalletmanager
+
+Building kate from kf5-base-applications (154/183)
+        Cloning kate
+        Source update complete for kate: 1 file affected.
+        Preparing build system for kate.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kate
+
+Building kdialog from kf5-base-applications (155/183)
+        Cloning kdialog
+        Source update complete for kdialog: 1 file affected.
+        Preparing build system for kdialog.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdialog
+
+Building kfind from kf5-base-applications (156/183)
+        Cloning kfind
+        Source update complete for kfind: 1 file affected.
+        Preparing build system for kfind.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kfind
+
+Building konsole from kf5-base-applications (157/183)
+        Cloning konsole
+        Source update complete for konsole: 1 file affected.
+        Preparing build system for konsole.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for konsole
+
+Building gwenview from kdegraphics (158/183)
+        Cloning gwenview
+        Source update complete for gwenview: 1 file affected.
+        Preparing build system for gwenview.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for gwenview
+
+Building kcolorchooser from kdegraphics (159/183)
+        Cloning kcolorchooser
+        Source update complete for kcolorchooser: 1 file affected.
+        Preparing build system for kcolorchooser.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcolorchooser
+
+Building kdegraphics-thumbnailers from kdegraphics (160/183)
+        Cloning kdegraphics-thumbnailers
+        Source update complete for kdegraphics-thumbnailers: 1 file affected.
+        Preparing build system for kdegraphics-thumbnailers.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdegraphics-thumbnailers
+
+Building kipi-plugins from kdegraphics (161/183)
+        Cloning kipi-plugins
+        Source update complete for kipi-plugins: 1 file affected.
+        Preparing build system for kipi-plugins.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kipi-plugins
+
+Building kruler from kdegraphics (162/183)
+        Cloning kruler
+        Source update complete for kruler: 1 file affected.
+        Preparing build system for kruler.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kruler
+
+Building libksane from kdegraphics (163/183)
+        Cloning libksane
+        Source update complete for libksane: 1 file affected.
+        Preparing build system for libksane.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for libksane
+
+Building okular from kdegraphics (164/183)
+        Cloning okular
+        Source update complete for okular: 1 file affected.
+        Preparing build system for okular.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for okular
+
+Building svgpart from kdegraphics (165/183)
+        Cloning svgpart
+        Source update complete for svgpart: 1 file affected.
+        Preparing build system for svgpart.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for svgpart
+
+Building kdevelop from kdevelop-kf5 (166/183)
+        Cloning kdevelop
+        Source update complete for kdevelop: 1 file affected.
+        Preparing build system for kdevelop.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdevelop
+
+Building lokalize from kf5-utils (167/183)
+        Cloning lokalize
+        Source update complete for lokalize: 1 file affected.
+        Preparing build system for lokalize.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for lokalize
+
+Building ark from kdeutils (168/183)
+        Cloning ark
+        Source update complete for ark: 1 file affected.
+        Preparing build system for ark.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ark
+
+Building filelight from kdeutils (169/183)
+        Cloning filelight
+        Source update complete for filelight: 1 file affected.
+        Preparing build system for filelight.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for filelight
+
+Building kcalc from kdeutils (170/183)
+        Cloning kcalc
+        Source update complete for kcalc: 1 file affected.
+        Preparing build system for kcalc.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcalc
+
+Building kcharselect from kdeutils (171/183)
+        Cloning kcharselect
+        Source update complete for kcharselect: 1 file affected.
+        Preparing build system for kcharselect.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcharselect
+
+Building kdebugsettings from kdeutils (172/183)
+        Cloning kdebugsettings
+        Source update complete for kdebugsettings: 1 file affected.
+        Preparing build system for kdebugsettings.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdebugsettings
+
+Building kdf from kdeutils (173/183)
+        Cloning kdf
+        Source update complete for kdf: 1 file affected.
+        Preparing build system for kdf.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kdf
+
+Building kgpg from kdeutils (174/183)
+        Cloning kgpg
+        Source update complete for kgpg: 1 file affected.
+        Preparing build system for kgpg.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kgpg
+
+Building ktimer from kdeutils (175/183)
+        Cloning ktimer
+        Source update complete for ktimer: 1 file affected.
+        Preparing build system for ktimer.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ktimer
+
+Building markdownpart from kdeutils (176/183)
+        Cloning markdownpart
+        Source update complete for markdownpart: 1 file affected.
+        Preparing build system for markdownpart.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for markdownpart
+
+Building sweeper from kdeutils (177/183)
+        Cloning sweeper
+        Source update complete for sweeper: 1 file affected.
+        Preparing build system for sweeper.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for sweeper
+
+Building elisa from kdemultimedia (178/183)
+        Cloning elisa
+        Source update complete for elisa: 1 file affected.
+        Preparing build system for elisa.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for elisa
+
+Building ffmpegthumbs from kdemultimedia (179/183)
+        Cloning ffmpegthumbs
+        Source update complete for ffmpegthumbs: 1 file affected.
+        Preparing build system for ffmpegthumbs.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ffmpegthumbs
+
+Building kmix from kdemultimedia (180/183)
+        Cloning kmix
+        Source update complete for kmix: 1 file affected.
+        Preparing build system for kmix.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kmix
+
+Building kcron from kdeadmin (181/183)
+        Cloning kcron
+        Source update complete for kcron: 1 file affected.
+        Preparing build system for kcron.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for kcron
+
+Building ksystemlog from kdeadmin (182/183)
+        Cloning ksystemlog
+        Source update complete for ksystemlog: 1 file affected.
+        Preparing build system for ksystemlog.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for ksystemlog
+
+Building partitionmanager from kdeadmin (183/183)
+        Cloning partitionmanager
+        Source update complete for partitionmanager: 1 file affected.
+        Preparing build system for partitionmanager.
+        Running cmake targeting Ninja...
+        Compiling... succeeded (after 0 seconds)
+        Skipping install for partitionmanager
+
+<<<  PACKAGES SUCCESSFULLY BUILT  >>>
+Built 183 modules
+
+The following modules were updated but not built:
+        breeze-plymouth
+Removing 1 out of 1 old log directories...
+boni@clr/insilications/apps/kdesrc-build $

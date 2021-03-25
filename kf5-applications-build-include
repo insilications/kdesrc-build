@@ -18,12 +18,14 @@
 
 module-set kf5-base-applications
     repository kde-projects
-    use-modules konsole kate dolphin keditbookmarks kfind konqueror kdialog kio-extras
+    use-modules konsole kate dolphin kfind kdialog kio-extras
+    ignore-modules keditbookmarks konqueror
 end module-set
 
 module-set kdegraphics
     repository kde-projects
     use-modules kdegraphics/*
+    ignore-modules kdegraphics/digikam kdegraphics/kamera kdegraphics/kdegraphics-mobipocket kdegraphics/kgeotag kdegraphics/kimagemapeditor kdegraphics/koko kdegraphics/kolourpaint kdegraphics/kooka kdegraphics/kphotoalbum kdegraphics/krita kdegraphics/kuickshow kdegraphics/kxstitch kdegraphics/libksane kdegraphics/peruse kdegraphics/pikasso kdegraphics/pvfviewer kdegraphics/skanlite kdegraphics/spectacle kdegraphics/symboleditor kdegraphics/tikzkit kdegraphics/washipad
 end module-set
 
 module-set kdevelop-kf5
@@ -35,93 +37,96 @@ module-set kdevelop-kf5
     use-modules kdevelop.git
 end module-set
 
-module-set kile
-    repository kde-projects
-    use-modules kile
-end module-set
+# module-set kile
+#     repository kde-projects
+#     use-modules kile
+# end module-set
 
-module-set kf5-scanner
-    repository kde-projects
-    use-modules libksane skanlite
-end module-set
+# module-set kf5-scanner
+#     repository kde-projects
+#     use-modules libksane skanlite
+# end module-set
 
 module-set kf5-utils
     repository kde-projects
-    use-modules okteta lokalize yakuake
+    use-modules okteta lokalize
+    ignore-modules yakuake
 end module-set
 
-module-set kdeedu
-    repository kde-projects
-    use-modules libkeduvocdocument \
-        kdeedu-data \
-        analitza \
-        artikulate \
-        blinken \
-        cantor \
-        kalgebra \
-        kalzium \
-        kanagram \
-        kbruch \
-        kgeography \
-        khangman \
-        kig \
-        kiten \
-        klettres \
-        kmplot \
-        kstars \
-        kqtquickcharts \
-        ktouch \
-        kturtle \
-        kwordquiz \
-        marble \
-        minuet \
-        parley \
-        rocs \
-        step
-end module-set
+# module-set kdeedu
+#     repository kde-projects
+#     use-modules libkeduvocdocument \
+#         kdeedu-data \
+#         analitza \
+#         artikulate \
+#         blinken \
+#         cantor \
+#         kalgebra \
+#         kalzium \
+#         kanagram \
+#         kbruch \
+#         kgeography \
+#         khangman \
+#         kig \
+#         kiten \
+#         klettres \
+#         kmplot \
+#         kstars \
+#         kqtquickcharts \
+#         ktouch \
+#         kturtle \
+#         kwordquiz \
+#         marble \
+#         minuet \
+#         parley \
+#         rocs \
+#         step
+# end module-set
 
-module-set kdeaccessibility
-    repository kde-projects
-    use-modules kmag kmouth kmousetool
-end module-set
+# module-set kdeaccessibility
+#     repository kde-projects
+#     use-modules kmag kmouth kmousetool
+# end module-set
 
-module telepathy-qt
-    repository https://anongit.freedesktop.org/git/telepathy/telepathy-qt.git
-    cmake-options -DDESIRED_QT_VERSION=5
-end module
+# module telepathy-qt
+#     repository https://anongit.freedesktop.org/git/telepathy/telepathy-qt.git
+#     cmake-options -DDESIRED_QT_VERSION=5
+# end module
+#
+# module-set ktp
+#     repository kde-projects
+#     use-modules ktp-common-internals ktp-desktop-applets ktp-contact-list \
+#                 ktp-kded-module ktp-send-file ktp-text-ui ktp-filetransfer-handler \
+#                 ktp-accounts-kcm ktp-auth-handler \
+#                 kaccounts-providers kaccounts-integration signon-kwallet-extension
+#     branch master
+# end module-set
 
-module-set ktp
-    repository kde-projects
-    use-modules ktp-common-internals ktp-desktop-applets ktp-contact-list \
-                ktp-kded-module ktp-send-file ktp-text-ui ktp-filetransfer-handler \
-                ktp-accounts-kcm ktp-auth-handler \
-                kaccounts-providers kaccounts-integration signon-kwallet-extension
-    branch master
-end module-set
+# module-set kdenetwork
+#     repository kde-projects
+#     use-modules krfb krdc kget
+# end module-set
 
-module-set kdenetwork
-    repository kde-projects
-    use-modules krfb krdc kget
-end module-set
-
-module telepathy-accounts-signon
-    repository https://gitlab.com/accounts-sso/telepathy-accounts-signon.git
-    branch master
-end module
-
-module-set konversation
-    repository kde-projects
-    use-modules konversation
-end module-set
+# module telepathy-accounts-signon
+#     repository https://gitlab.com/accounts-sso/telepathy-accounts-signon.git
+#     branch master
+# end module
+#
+# module-set konversation
+#     repository kde-projects
+#     use-modules konversation
+# end module-set
 
 module-set kdeutils
     repository kde-projects
     use-modules kdeutils/*
+    ignore-modules kdeutils/abakus kdeutils/atcore-cli kdeutils/atelier kdeutils/basket kdeutils/kbackup kdeutils/keditbookmarks kdeutils/keurocalc kdeutils/kfloppy kdeutils/kirogi kdeutils/klimbgrades kdeutils/kongress kdeutils/kookbook kdeutils/kronometer kdeutils/krusader kdeutils/kteatime kdeutils/ktrip kdeutils/mangonel kdeutils/mycroft-plasmoid kdeutils/print-manager kdeutils/rsibreak kdeutils/skanpage kdeutils/totalreqall kdeutils/yakuake
 end module-set
 
 module-set kdemultimedia
     repository kde-projects
     use-modules kdemultimedia/*
+    ignore-modules kdemultimedia/amarok kdemultimedia/audex kdemultimedia/audiocd-kio kdemultimedia/dragon kdemultimedia/juk kdemultimedia/k3b kdemultimedia/kaffeine kdemultimedia/kamoso kdemultimedia/kdenlive kdemultimedia/kid3 kdemultimedia/kmplayer kdemultimedia/kscd kdemultimedia/kwave kdemultimedia/libkcddb kdemultimedia/libkcompactdisc
 end module-set
 
 module-set kdeadmin
@@ -135,35 +140,33 @@ module-set kmix
     cmake-options -DKMIX_KF5_BUILD:STRING=TRUE
 end module-set
 
-module-set kdegames
-    repository kde-projects
-    use-modules kde/kdegames amor
-end module-set
+# module-set kdegames
+#     repository kde-projects
+#     use-modules kde/kdegames amor
+# end module-set
 
-module-set kdewebdev
-    repository kde-projects
-    use-modules kimagemapeditor
-end module-set
+# module-set kdewebdev
+#     repository kde-projects
+#     use-modules kimagemapeditor
+# end module-set
 
-module-set kdeconnect
-    repository kde-projects
-    use-modules kdeconnect-kde
-end module-set
+# module-set kdeconnect
+#     repository kde-projects
+#     use-modules kdeconnect-kde
+# end module-set
 
-module-set calligra-libs
-    repository kde-projects
-    use-modules kdiagram kdb kproperty kreport
-end module-set
+# module-set calligra-libs
+#     repository kde-projects
+#     use-modules kdiagram kdb kproperty kreport
+# end module-set
 
-module-set calligra
-    repository kde-projects
-    # The foo.git syntax forces kdesrc-build to use matching git repositories
-    # even when the module name "foo" would also match a whole group of modules
-    use-modules calligra.git kexi calligraplan
-end module-set
+# module-set calligra
+#     repository kde-projects
+#     use-modules calligra.git kexi calligraplan
+# end module-set
 
-module-set krita
-    repository kde-projects
-    use-modules krita
-end module-set
+# module-set krita
+#     repository kde-projects
+#     use-modules krita
+# end module-set
 
